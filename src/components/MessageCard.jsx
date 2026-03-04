@@ -13,19 +13,19 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `PAGAL,
 
-Your personalized birthday message goes here.
+I don’t know what the future holds, but I truly hope this year brings you happiness, success, and everything your heart secretly wishes for 💖🌸 Stay blessed always 🌟
+You may not know how much your smile means, but I pray your life is filled with the same light you bring into others’ lives 🌼✨
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+I might not say this often, but your presence makes the world feel softer and brighter 🌅🌹 May this year give you peace, growth, and endless reasons to smile 😊🌟
+May your day be as amazing as your personality and as beautiful as your smile 😌🌸 Keep shining always ✨💛
+Some people come into our lives quietly but mean more than they’ll ever know… Wishing you a year full of love, success, and unforgettable moments 🌹✨
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
+May your day be full of laughter, cake, surprises, and all the little things that make you happy 😌🌷 Keep shining like the star you are ✨🌟
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— ARBAZ KHAN`;
 
   // Handle page transitions
   useEffect(() => {
